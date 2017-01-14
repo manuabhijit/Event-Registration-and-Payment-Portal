@@ -22,44 +22,59 @@ Sample Event Registration and Payment Portal allows to register and lets him pay
 
 #Project Description:
 	
+This web application is used to register participents for many events, both singleplayer and multiplayer (upto 5 by default).
+The payments for the event can be made on registration desk easily. 
+
 	The project has two parts.
 	1. Registration Portal: to register participants
+		Frontend form with jQuery Dynamics
+		Both frontend and backend data validation
+		No Duplicate Entries
+		
 	2. Payment Portal: to make their payments on registration desk.
+		Secure login with php bycrypt incryption
+		jQuery Search portal to easily search a user 
+		Secure payment consirmation.
+		
+	3. Addons 
+		PHP mailer has been included as ZIP file
+		QRcode generator has been included as ZIP file
+		fPDF has been included as addon and can be easily included.
+		
 
 #Datatabe Description:
 
 The database has 4 tables:
 
 student
-	
-	This table has all the data of the registering participents. 
-	
+    
+    This table has all the data of the registering participants. 
+    
 events
-	
-	This table has all the data of the events to participate . 
+    
+    This table has all the data of the events to participate. 
 
 registrar
-	
-	This table has all the data of the people collecting money on the desk.
+    
+    This table has all the data of the people collecting money on the desk.
 
  transactions
  
- 	This table has all the data of transations that had happened
+     This table has all the data of transactions that had happened.
 	
 	
 
 #PHP File Description 
 
-    The file is the backend script for Online Bus Registration System to be called by AJAX call.
-		
-		File Properties:
-		1. Procedural Programming Approach
+  		File Properties:
+		1. Object Oriented Programming Approach
 		2. First come first serve seat allocation system.
 		3. My SQL Database 
 		4. Clean Code
 		5. Uses serialized form data
 		
 		No copy-rights reserved.
+		
 		
 #Installation Steps
 
