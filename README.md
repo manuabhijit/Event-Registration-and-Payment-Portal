@@ -36,7 +36,7 @@ The payments for the event can be made on registration desk easily.
 		jQuery Search portal to easily search a user 
 		Secure payment consirmation.
 		
-	3. Addons 
+	Addons 
 		PHP mailer has been included as ZIP file
 		QRcode generator has been included as ZIP file
 		fPDF has been included as addon and can be easily included.
