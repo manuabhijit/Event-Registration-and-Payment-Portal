@@ -21,8 +21,32 @@ Sample Event Registration and Payment Portal allows to register and lets him pay
     The software is not opimized for frontend 
 
 #Project Description:
+	
+	The project has two parts.
+	1. Registration Portal: to register participants
+	2. Payment Portal: to make their payments on registration desk.
 
 #Datatabe Description:
+
+The database has 4 tables:
+
+student
+	
+	This table has all the data of the registering participents. 
+	
+events
+	
+	This table has all the data of the events to participate . 
+
+registrar
+	
+	This table has all the data of the people collecting money on the desk.
+
+ transactions
+ 
+ 	This table has all the data of transations that had happened
+	
+	
 
 #PHP File Description 
 
