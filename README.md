@@ -26,16 +26,17 @@ This web application is used to register participents for many events, both sing
 The payments for the event can be made on registration desk easily. 
 
 The project has two parts.
-	1. **Registration Portal:** to register participants
+
+1. **Registration Portal:** to register participants
 		Frontend form with jQuery Dynamics
 		Both frontend and backend data validation
 		No Duplicate Entries
-	2. **Payment Portal:** to make their payments on registration desk.
+2. **Payment Portal:** to make their payments on registration desk.
 		Secure login with php bycrypt incryption
 		jQuery Search portal to easily search a user 
 		Secure payment consirmation.
 		
-Addons 
+**Addons**
 		PHP mailer has been included as ZIP file
 		QRcode generator has been included as ZIP file
 		fPDF has been included as addon and can be easily included.
