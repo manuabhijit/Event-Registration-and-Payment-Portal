@@ -57,15 +57,12 @@ The database has 4 tables:
 
 ## PHP File Description 
 
-  		File Properties:
+  File Properties:
 		1. Object Oriented Programming Approach
 		2. First come first serve seat allocation system.
 		3. My SQL Database 
 		4. Clean Code
-		5. Uses serialized form data
-		
-		No copy-rights reserved.
-		
+		5. Uses serialized form data		
 		
 ## Installation Steps
 
